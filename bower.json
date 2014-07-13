@@ -1,0 +1,28 @@
+{
+  "name": "Jess The Doula",
+  "version": "0.0.1",
+  "authors": [
+    "Jim <theotherjim@gmail.com>",
+    "Jess Butler <immortaltildeath@gmail.com>"
+  ],
+  "description": "Jess's Doula Website",
+  "main": "src/js/main.js",
+  "keywords": [
+    "Jess",
+    "Doula"
+  ],
+  "license": "MIT",
+  "homepage": "jbdoula.github.io/JessTheDoula",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.20",
+    "bootstrap": "~3.2.0"
+  }
+}
